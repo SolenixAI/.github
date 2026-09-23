@@ -7,7 +7,7 @@
 
 ### What we build
 
-- **[Agents Marketplace](https://github.com/SolenixAI/agents-marketplace)** *([v0.1.0](https://github.com/SolenixAI/agents-marketplace/releases/tag/v0.1.0))*. Hand-picked agent tools, ours and the best of open source, that install into Claude Code, Codex, Cursor or any MCP client with one line. One line removes them.
+- **[Agents Marketplace](https://github.com/SolenixAI/agents-marketplace)** *([latest release](https://github.com/SolenixAI/agents-marketplace/releases/latest))*. Hand-picked agent tools, ours and the best of open source, that install into Claude Code, Codex, Cursor or any MCP client with one line. One line removes them.
 
 ### Work with us
 
