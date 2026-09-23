@@ -7,7 +7,7 @@
 
 ### What we build
 
-- **One-command agent setup** *(coming soon)*. Install a chosen set of MCP servers and skills into any MCP client with one command. Uninstall leaves no trace.
+- **Agents Marketplace** *(coming soon)*. Hand-picked agent tools, ours and the best of open source, that install into Claude Code, Codex, Cursor or any MCP client with one line. One line removes them.
 
 ### Work with us
 
